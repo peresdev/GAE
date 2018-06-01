@@ -1,5 +1,5 @@
 # GAE
-Project for Google App Engine (GAE).
+Project using Google App Engine (GAE).
 
 Technologies
 - Java
